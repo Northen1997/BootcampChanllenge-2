@@ -22,5 +22,5 @@ Disadvantage: if it is one part of a large project, refactoring may resulting in
 
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
 
-The Orignal one is easy to understand but took longer to run 
-the refactored on can be harder to unbderstand but faster to run
+The Orignal one is easy to understand but took longer to run. 
+The refactored on can be harder to unbderstand but faster to run.
